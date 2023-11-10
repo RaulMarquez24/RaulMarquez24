@@ -1,6 +1,6 @@
 # Bienvenido a mi GitHub 👋
 
-¡Hola! Soy Raul Marquez, un apasionado desarrollador y entusiasta de la tecnología. Este es mi espacio en GitHub, donde comparto proyectos y colaboro con la comunidad.
+¡Hola! Soy Raúl Márquez, un apasionado desarrollador y entusiasta de la tecnología. Este es mi espacio en GitHub, donde comparto proyectos y colaboro con la comunidad.
 
 ## 🌐 Portfolio
 
