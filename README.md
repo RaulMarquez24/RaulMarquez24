@@ -8,7 +8,7 @@ No olvides echar un vistazo a mi [portfolio](https://raulmarquez.fly.dev), donde
 
 ## 📫 Contacto
 
-- LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/raúl-márquez-urbano-5b5b72239/)
+- LinkedIn: [Raúl Márquez Urbano](https://www.linkedin.com/in/raúl-márquez-urbano-5b5b72239/)
 - Correo Electrónico: raulmu785@gmail.com
 
 ---
