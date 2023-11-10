@@ -1,9 +1,9 @@
-# Hola, mi nombre es Raúl Márquez 👋
-### Full-stack developer
+# <img src="https://raulmarquez.fly.dev/assets/logo/logo.png" alt="Logo" width="34"/> Hola, mi nombre es Raúl Márquez 👋
+### Desarrollador full-stack
 
 Soy un apasionado desarrollador y entusiasta de la tecnología. Este es mi espacio en GitHub, donde comparto proyectos y colaboro con la comunidad.
 
-## Tecnologías:
+## 💻 Tecnologías:
 
 ### Lenguajes de Programación:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -28,14 +28,21 @@ Soy un apasionado desarrollador y entusiasta de la tecnología. Este es mi espac
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
+## 📊 Estadisticas:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaulMarquez24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaulMarquez24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
 ## 🌐 Portfolio
 
 No olvides echar un vistazo a mi [portfolio](https://raulmarquez.fly.dev), donde podrás ver un poco mas sobre mi.
 
 ## 📫 Contacto
 
-- LinkedIn: [Raúl Márquez Urbano](https://www.linkedin.com/in/raúl-márquez-urbano-5b5b72239/)
-- Correo Electrónico: raulmu785@gmail.com
+[![Linkedin](https://img.shields.io/badge/Raúl_Márquez_Urbano-Linkedin-0a78b5?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/raúl-márquez-urbano-5b5b72239/)
+</br>
+[![Email](https://img.shields.io/badge/raulmu785@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:raulmu785@gmail.com)
 
 ---
 ⭐️ ¡Gracias por visitar mi perfil! 
