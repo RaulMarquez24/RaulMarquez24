@@ -1,6 +1,7 @@
-# Bienvenido a mi GitHub 👋
+# Hola, mi nombre es Raúl Márquez 👋
+### Full-stack developer
 
-¡Hola! Soy Raúl Márquez, un apasionado desarrollador y entusiasta de la tecnología. Este es mi espacio en GitHub, donde comparto proyectos y colaboro con la comunidad.
+Soy un apasionado desarrollador y entusiasta de la tecnología. Este es mi espacio en GitHub, donde comparto proyectos y colaboro con la comunidad.
 
 ## Tecnologías:
 
