@@ -36,7 +36,11 @@ Soy un apasionado desarrollador y entusiasta de la tecnología. Este es mi espac
 
 ## 🌐 Portfolio
 
-No olvides echar un vistazo a mi [portfolio](https://raulmarquez.fly.dev), donde podrás ver un poco mas sobre mi.
+<!-- No olvides echar un vistazo a mi [portfolio](https://raulmarquez.fly.dev), donde podrás ver un poco mas sobre mi. -->
+
+No olvides echar un vistazo a mi portfolio, donde podrás ver un poco mas sobre mi.
+
+[![Portfolio](https://img.shields.io/badge/raulmarquez.fly.dev-portfolio-yellow?style=for-the-badge&logo=&logoColor=white&labelColor=101010)](https://raulmarquez.fly.dev)
 
 ## 📫 Contacto
 
