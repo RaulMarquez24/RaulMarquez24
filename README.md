@@ -1,16 +1,15 @@
-### Hi there 👋
+# Bienvenido a mi GitHub 👋
 
-<!--
-**RaulMarquez24/RaulMarquez24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Raul Marquez, un apasionado desarrollador y entusiasta de la tecnología. Este es mi espacio en GitHub, donde comparto proyectos y colaboro con la comunidad.
 
-Here are some ideas to get you started:
+## 🌐 Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No olvides echar un vistazo a mi [portfolio](https://raulmarquez.fly.dev), donde podrás ver un poco mas sobre mi.
+
+## 📫 Contacto
+
+- LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/raúl-márquez-urbano-5b5b72239/)
+- Correo Electrónico: raulmu785@gmail.com
+
+---
+⭐️ ¡Gracias por visitar mi perfil! 
