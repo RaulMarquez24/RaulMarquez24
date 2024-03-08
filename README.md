@@ -14,7 +14,7 @@ Soy un apasionado desarrollador y entusiasta de la tecnología. Este es mi espac
 
 ### Back-End:
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
-[![Express.js](https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=express&logoColor=white&labelColor=f7e025)]()
+[![Express.js](https://img.shields.io/badge/Express.js-f7e025?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
 
