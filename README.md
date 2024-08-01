@@ -33,6 +33,7 @@ Soy un apasionado desarrollador y entusiasta de la tecnología. Este es mi espac
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 ## 📊 Estadisticas:
+[![RaulMarquez24 GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulMarquez24)](https://github.com/RaulMarquez24/github-readme-stats)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaulMarquez24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaulMarquez24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
